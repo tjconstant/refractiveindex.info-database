@@ -5459,7 +5459,6 @@
       name: "OHARA - NBH (Niobate, high-index)"
       info: "glass/OHARA.html"
       content:
-      content:
         - PAGE: L-NBH54
           name: "L-NBH54"
           data: "glass/ohara/L-NBH54.yml"
